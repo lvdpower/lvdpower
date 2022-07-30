@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lvdpower
-- 👀 I’m interested in how to make my own game game!
+- 👀 I’m interested in how to make my own game!
 - 🌱 I’m currently learning C++, C# , Opengl, DaScript and how to make games!
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me just call me +7916-970-24-79  or email me timur123@gmail.com
